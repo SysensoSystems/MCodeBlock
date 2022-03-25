@@ -18,3 +18,6 @@ Refer the detailed documentation available in the path: doc\MCodeBlock_doc.pdf.
 Developed by: Sysenso Systems, <https://sysenso.com/>
 
 Contact: contactus@sysenso.com
+
+
+MATLAB Release Compatibility: Created with R2015b, Compatible with any release
